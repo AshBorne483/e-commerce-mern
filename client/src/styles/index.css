@@ -4,6 +4,12 @@
   --font-special: "Roboto", sans-serif;
   --font-body: "Josefin Sans", sans-serif;
 
+  --color-primary: #793aee;
+  --color-primary-fg: #f5f5f5;
+  --color-secondary: #6196ff;
+  --color-secondary-fg: #ffffff;
+  --color-accent: #e0e0e0;
+
   --breakpoint-xs: 375px;
   --breakpoint-sm: 430px;
   --breakpoint-md: 768px;
